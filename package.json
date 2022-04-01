@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --watch --aot --base-href /angular-seo-no-ssr/",
+    "build": "ng build --aot --base-href /angular-seo-no-ssr/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
